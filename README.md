@@ -1,5 +1,5 @@
 # light-lunch-syntax theme
 
-A brigh, but classy light syntax for everyone, who likes it.
+A brigh, but classy syntax for everyone, who likes light themes and a lot of colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://raw.githubusercontent.com/thezsanett/light-lunch-syntax/master/preview.png)
