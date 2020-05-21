@@ -11,7 +11,7 @@
     "colorful",
     "lunch"
   ],
-  "repository": "https://github.com/atom/light-lunch-syntax",
+  "repository": "https://github.com/thezsanett/light-lunch-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
