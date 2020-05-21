@@ -1,0 +1,19 @@
+{
+  "name": "light-lunch-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A bright, but classy syntax for those weirdos, who still like light themes!",
+  "keywords": [
+    "syntax",
+    "theme",
+    "bright",
+    "light",
+    "colorful",
+    "lunch"
+  ],
+  "repository": "https://github.com/atom/light-lunch-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
